@@ -270,5 +270,8 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #6** - FLock.io by Yifan Xie and Kay Yu @ FLock.io - [**Slides**](https://drive.google.com/file/d/1SbZfTx9MlhkMIvbY0mse0DeTA85jkj_6/view) - **Video (TBA)**
 - **Talk #7** - Security and Efficieny for Agents by Andreas Petersson - [**Slides**](https://drive.google.com/file/d/1maQ5UjdbmoXC8R1yvYKUGxAUNcD8xzFR/view) - **Video (TBA)**
 
-
+- **Allora Workshop**
+  - Missed the live session? You can still get involved 👇
+  - 📄 [Read this one‑pager](https://drive.google.com/file/d/1ahou1BybJ0_KNJL-msqp5gKAj-02bl_L/view?usp=sharing) — everything you need to know in one place.
+  - 💬 [Join the Telegram group](https://t.me/+V9-0o5SXyChiZDdh) — connect and discuss all things related to the workshop.
 
