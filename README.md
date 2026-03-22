@@ -98,7 +98,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-frankfurt-meetup-tickets-807200557597)
 - **Photos** - [**Link**](https://drive.google.com/drive/folders/1hkn4RbHhYNx_fumeUcGPE3h7eF01Gekj)
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1zj4WFTNNbWvdH6mkTpqB5tRBdx2mRy07/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1zj4WFTNNbWvdH6mkTpqB5tRBdx2mRy07/view)
 - **Talk #1** - From Zero to Hero by Josef “svendaj” Švenda - [**Video**](https://youtu.be/tKmDK3gH1H8) - [**Slides**](https://drive.google.com/file/d/1PsfIL_yBXFC_kBEohmZSzQ1BVfhmEIfO/view)
 - **Talk #2** - Feature Selection by Daniel Springmann - [**Video**](https://youtu.be/UaKJOA4Fo_Q) - [**Slides**](https://drive.google.com/file/d/1gGI619YWLxJ11_I0P_EQIeMV7rbTlnz1/view)
 - **Talk #3** - Vlad the Staker by Boris Schmid - [**Video**](https://youtu.be/m7HXfAEBe3g) - [**Slides**](https://drive.google.com/file/d/11IYX9Oi0_152twsttlwFvT5rzGKF58Mq/view)
@@ -112,7 +112,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-2024-tickets-899734789977)
 - **Photos and Videos** - [**Link**](https://drive.google.com/drive/folders/13CbTyi30gBGCT8oo-e8998lrgshhfjAB)
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1D9cfGDbTdPcBX1EWOFUBB036fxxK5x5N/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1D9cfGDbTdPcBX1EWOFUBB036fxxK5x5N/view)
 - **Talk #1** - Updates and Strategy for Numerai in 2024 by Yuichiro Nishimoto - [**Video (JP)**](https://youtu.be/DpzqPjkKk3g) - [**Slides (JP)**](https://drive.google.com/file/d/1tLkQcQT4lBtvkiZXsCp8LTR4PT8kCRDf/view)
 - **Talk #2** - Submission with Numerai Compute using GCP Batch by Regonn - [**Video (JP)**](https://youtu.be/dVw2DE9vxNQ) - [**Slides (JP + EN)**](https://drive.google.com/file/d/1hZ18AOlW0FhmhTvPjDu8v-G6x32Ppaik/view)
 - **Talk #3** - Exploratory Data Analysis of the Numerai Signals V1 Dataset by Habakan - [**Video (JP)**](https://youtu.be/V4nMhIpMbpY) - [**Slides (JP)**](https://drive.google.com/file/d/1V-hhJWLnFts8gVq4Pw2EQ0yDCRh4u1Kb/view)
@@ -126,7 +126,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Free Registration** - [**Link**](https://lu.ma/SuperintelligenceSummit?utm_source=numerai)
 - **Social Media** - [**Link**](https://x.com/matlabulous/status/1846022065243218283)
 - **Photos** - [**Link**](https://drive.google.com/drive/folders/19QRVOw2CAHRFEJLIdKWAi15B94aUQS02)
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1M5Rg5hacOKolyRkaisbEDyOKd32bLPJf/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1M5Rg5hacOKolyRkaisbEDyOKd32bLPJf/view)
 - **Talk #1.1** - YIEDL.ai: Introduction by Davide Capoti - [**Slides**](https://drive.google.com/file/d/11uAZvoVSN2VtLW4nLBftkcHBY1ls10Mh/view) - [**Video**](https://youtu.be/Cr9ExhF65Jg)
 - **Talk #1.2** - YIEDL.ai: How It Works by Roberto Giaccio - [**Slides**](https://drive.google.com/file/d/1nACQ1uKx65vd0ZfdZEb4fc6In8o4RvKD/view) - [**Video**](https://youtu.be/ar5kXuhLbXA)
 - **Talk #1.3** - YIEDL.ai: Datasets by Lubin Tan - [**Slides**](https://drive.google.com/file/d/1hAMse2zBilCgSdjTaILbU7_1gIctNbwX/view) - [**Video**](https://youtu.be/ab8d80sbPTs)
@@ -149,7 +149,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
 - **Photos** - [**Link**](https://drive.google.com/drive/u/1/folders/1I1PzGoZG0vxvEeH3HhtazMxkt18vAGCI)
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
 - **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides**](https://drive.google.com/file/d/13T14ZsTO-l7l79xZZx2Lb8UpnlgZgZ3t/view) - [**Video**](https://youtu.be/_weWQaXlRTs)
 - **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides**](https://drive.google.com/file/d/1S_NJxRm4w3Rin3xSDWG9TfDH2MuSuCaY/view) - [**Video**](https://youtu.be/a2aX9jS6Ga0)
 - **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](https://drive.google.com/file/d/1I2WiB7xXVwWFm37LBUCrSUTlRF2I5q4c/view) - [**Video**](https://youtu.be/JQk14u6dDW4)
@@ -163,7 +163,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
 - **Photos** - [**Link**](https://drive.google.com/drive/folders/1VApFP8VhzIzVRzomoqUTwtI9-JuK7XON)
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1vi11KOTZrAsRby-aRkQnqiFQ1Wgk5psi/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1vi11KOTZrAsRby-aRkQnqiFQ1Wgk5psi/view)
 - **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video**](https://youtu.be/H_cP5i6v5Uk)
 - **Talk #2** - HyperLens by Bekki - [**Contact Speaker**](https://www.linkedin.com/in/kohei-b-6ab595350/)
 - **Talk #3** - Unlock Actionable Insight from Unstructured Data by Jeff Tsui - [**Contact Speaker**](https://www.linkedin.com/in/jeff-tsui/)
@@ -178,7 +178,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/5w9wvbjf)
 - **Photos & Videos** - [**Link**](https://drive.google.com/drive/folders/1A-jsrBzaKyKgADnm2uu9neS_MQId5P3Q)
-- **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1HHF_bJIwuRadXLD-gTXZtj-o-P2ByEIr/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1HHF_bJIwuRadXLD-gTXZtj-o-P2ByEIr/view)
 - **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view) - [**Video**](https://youtu.be/T6BBTUBbHbQ)
 - **Talk #2** - How to Turbocharge Model Building for Numerai with Vibes by Ling - [**Slides**](https://drive.google.com/file/d/1vb6GsVG9qlkaXjhhCPzHSTNvYKI75NBw/view) - [**Video**](https://youtu.be/ejoIVn_rZik)
 - **Talk #3** - What does the "era" information mean for Numerai model training by gBrecht - [**Slides**](https://drive.google.com/file/d/1YL0iGzU4lm-x358iXFzprTrrwpB5uaIX/view) - [**Video**](https://youtu.be/Z6uvGT5GExI)
@@ -196,7 +196,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
 - **Photos & Videos (TBA)**
-- **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
 - **Workshop Intro #1** - CrowdCent Workshop by Jason Rosenfeld - [**Slides**](https://drive.google.com/file/d/13HDEeImJhpnNnHXTKt8hEVKwlAqvjMTU/view)
 - **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides**](https://drive.google.com/file/d/1wPFXUgfYz1XXL-qyRYSdpUjHkiOf6zCa/view?usp=sharing)
 - **Talk #2** - How to Develop with AI in 2026 by Michael Philips @ Numerai - [**Slides**](https://drive.google.com/file/d/1wR-OB5RS3ugkTcJIwqkXIgt4SLPFagqv/view)
@@ -261,7 +261,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
 - **Photos & Videos (TBA)**
-- **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
 - **Talk #1** - An Introduction to Numerai and 2026 Update by Aventurine @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1-omoYlmRowGeJXwhQFlSkDs1Scdjau9_/view) - **Video (TBA)**
 - **Talk #2** - A Little Gift for Our Tree-bros by Jeethu Rao @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1Zl1aNCmpxRpsA02LFtUmV47MF1r9BsuQ/view) - **Video (TBA)**
 - **Talk #3** - Numeroo (a CoE-Funded Project): Distributed Compute for Numerai by Ling Li - [**Slides**](https://drive.google.com/file/d/1LsrBFX58DEe_YAJsuwRv6FMbYgGSYpHJ/view) - **Video (TBA)**
