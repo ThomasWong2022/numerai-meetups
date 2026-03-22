@@ -195,7 +195,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
-- **Photos & Videos** - [**Link (TBA)**]
+- **Photos & Videos (TBA)**
 - **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
 - **Workshop Intro #1** - CrowdCent Workshop by Jason Rosenfeld - [**Slides**](https://drive.google.com/file/d/13HDEeImJhpnNnHXTKt8hEVKwlAqvjMTU/view)
 - **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides**](https://drive.google.com/file/d/1wPFXUgfYz1XXL-qyRYSdpUjHkiOf6zCa/view?usp=sharing)
@@ -260,7 +260,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna)
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
-- **Photos & Videos** - [**Link (TBA)**]
+- **Photos & Videos (TBA)**
 - **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
 - **Talk #1** - An Introduction to Numerai and 2026 Update by Aventurine @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1-omoYlmRowGeJXwhQFlSkDs1Scdjau9_/view) - **Video (TBA)**
 - **Talk #2** - A Little Gift for Our Tree-bros by Jeethu Rao @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1Zl1aNCmpxRpsA02LFtUmV47MF1r9BsuQ/view) - **Video (TBA)**
