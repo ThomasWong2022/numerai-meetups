@@ -259,19 +259,22 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 ## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna)
 
-- **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
-- **Photos & Videos (TBA)**
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
-- **Talk #1** - An Introduction to Numerai and 2026 Update by Aventurine @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1-omoYlmRowGeJXwhQFlSkDs1Scdjau9_/view) - **Video (TBA)**
-- **Talk #2** - A Little Gift for Our Tree-bros by Jeethu Rao @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1Zl1aNCmpxRpsA02LFtUmV47MF1r9BsuQ/view) - **Video (TBA)**
-- **Talk #3** - Numeroo (a CoE-Funded Project): Distributed Compute for Numerai by Ling Li - [**Slides**](https://drive.google.com/file/d/1LsrBFX58DEe_YAJsuwRv6FMbYgGSYpHJ/view) - **Video (TBA)**
-- **Talk #4** - TabPFN: One Model, Infinite Predictions by Philipp Singer @ Prior Labs - [**Slides**](https://drive.google.com/file/d/19L8WdO07xp3OPe3QEIoIxZXdj5ELqYzU/view) - **Video (TBA)**
-- **Talk #5** - Allora: Turning Your Alpha into Intelligence by Diederik Kruijssen @ Allora - [**Slides**](https://drive.google.com/file/d/1dTZPeqaMEIA_a3NaHjIpDozjEPV4HV7c/view) - **Video (TBA)**
-- **Talk #6** - FLock.io by Yifan Xie and Kay Yu @ FLock.io - [**Slides**](https://drive.google.com/file/d/1SbZfTx9MlhkMIvbY0mse0DeTA85jkj_6/view) - **Video (TBA)**
-- **Talk #7** - Security and Efficieny for Agents by Andreas Petersson - [**Slides**](https://drive.google.com/file/d/1maQ5UjdbmoXC8R1yvYKUGxAUNcD8xzFR/view) - **Video (TBA)**
+- **Talks:**
+  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
+  - **Talk #1** - An Introduction to Numerai and 2026 Update by Aventurine @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1-omoYlmRowGeJXwhQFlSkDs1Scdjau9_/view) - **Video (TBA)**
+  - **Talk #2** - A Little Gift for Our Tree-bros by Jeethu Rao @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1Zl1aNCmpxRpsA02LFtUmV47MF1r9BsuQ/view) - **Video (TBA)**
+  - **Talk #3** - Numeroo (a CoE-Funded Project): Distributed Compute for Numerai by Ling Li - [**Slides**](https://drive.google.com/file/d/1LsrBFX58DEe_YAJsuwRv6FMbYgGSYpHJ/view) - **Video (TBA)**
+  - **Talk #4** - TabPFN: One Model, Infinite Predictions by Philipp Singer @ Prior Labs - [**Slides**](https://drive.google.com/file/d/19L8WdO07xp3OPe3QEIoIxZXdj5ELqYzU/view) - **Video (TBA)**
+  - **Talk #5** - Allora: Turning Your Alpha into Intelligence by Diederik Kruijssen @ Allora - [**Slides**](https://drive.google.com/file/d/1dTZPeqaMEIA_a3NaHjIpDozjEPV4HV7c/view) - **Video (TBA)**
+  - **Talk #6** - FLock.io by Yifan Xie and Kay Yu @ FLock.io - [**Slides**](https://drive.google.com/file/d/1SbZfTx9MlhkMIvbY0mse0DeTA85jkj_6/view) - **Video (TBA)**
+  - **Talk #7** - Security and Efficieny for Agents by Andreas Petersson - [**Slides**](https://drive.google.com/file/d/1maQ5UjdbmoXC8R1yvYKUGxAUNcD8xzFR/view) - **Video (TBA)**
 
 - **Allora Workshop**
   - Missed the live session? You can still get involved 👇
   - 📄 [Read this one‑pager](https://drive.google.com/file/d/1ahou1BybJ0_KNJL-msqp5gKAj-02bl_L/view?usp=sharing) — everything you need to know in one place.
   - 💬 [Join the Telegram group](https://t.me/+V9-0o5SXyChiZDdh) — connect and discuss all things related to the workshop.
+
+- **Other Links**:
+  - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
+  - **Photos & Videos (TBA)**
 
